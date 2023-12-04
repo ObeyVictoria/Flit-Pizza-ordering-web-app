@@ -1,0 +1,13 @@
+.cart{
+    margin-right: 13px;
+    font-size: 21px;
+    margin-top: -3px;
+}
+.button{
+    padding: 13px 25px;
+    background-color: #EE9322;
+    border: none;
+    border-radius: 40px;
+    color: white;
+    width: max-content;
+}

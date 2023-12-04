@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+  }
+  .header{
+    margin-top: -10px;
+    margin-right: 120px;
+    height: 100px;
+  }
+.links {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: bold;
+  }
+.icon {
+    display: flex;
+    gap: 10px
+  }

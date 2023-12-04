@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    padding: 85px 20px 30px 20px;
+}
+.link {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex: 1;
+}
+.socials {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    flex: 1;
+}
+.header{
+    font-weight: bold;
+}
+.button{
+    background-color: yellow;
+    color: white;
+    border: none;
+    border-radius: 17px;
+    padding: 10px;
+    width: 50%;
+}
